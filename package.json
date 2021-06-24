@@ -1,0 +1,18 @@
+{
+  "name": "tom-nodejs-app",
+  "version": "1.0.0",
+  "description": "NodeJS server app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.9"
+  }
+}
